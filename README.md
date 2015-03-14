@@ -1,2 +1,2 @@
-# pykoans_commented
-A repository for me to work my way through the Python koans as originally set forth by Greg Malcom in python_koans.
+# github_intro
+This is my first time working through GitHub, so I have created a repository to help me as I need to test actual git / GitHub things.
